@@ -1,0 +1,18 @@
+<odoo>
+    <record id="demo_person_1" model="person.info">
+        <field name="name">John Doe</field>
+        <field name="age">30</field>
+        <field name="address">123 Maple Street, Springfield, IL, 62704</field>
+        <field name="weight">60</field>
+        <field name="height">1.57</field>
+        <field name="hobbies">Reading</field>
+    </record>
+    <record id="demo_person_2" model="person.info">
+        <field name="name">Emily Clark</field>
+        <field name="age">27</field>
+        <field name="address">456 Oak Avenue, Rivertown, TX, 75001</field>
+        <field name="weight">55</field>
+        <field name="height">1.65</field>
+        <field name="hobbies">Painting</field>
+    </record>
+</odoo>

@@ -1,0 +1,20 @@
+<odoo>
+    <data>
+        <record id="my_student_module.student_form" model="ir.ui.view" web_icon="student_info_sample,static/description/icon.png">
+            <field name="name">Student</field>
+            <field name="model">my_student_module.student</field>
+            <field name="arch">
+                <form>
+                    <sheet>
+                        <group>
+                            <field name="name"/>
+                            <field name="age"/>
+                            <field name="grade"/>
+                            <field name="enrollment_date"/>
+                        </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+    </data>
+</odoo>

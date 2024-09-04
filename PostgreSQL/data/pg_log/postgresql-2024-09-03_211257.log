@@ -1,0 +1,5 @@
+2024-09-03 21:12:57 +08 LOG:  database system was shut down at 2024-09-03 21:12:45 +08
+2024-09-03 21:12:57 +08 LOG:  MultiXact member wraparound protections are now enabled
+2024-09-03 21:12:57 +08 LOG:  database system is ready to accept connections
+2024-09-03 21:12:57 +08 LOG:  autovacuum launcher started
+2024-09-03 21:13:30 +08 FATAL:  database "pip_db" does not exist
